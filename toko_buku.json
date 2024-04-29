@@ -1,0 +1,10 @@
+{
+    "toko": "Toko Buku Hidayah",
+    "alamat": "Jalan Kiara No. 12, Kota Sinsar",
+    "pengarang": "J.D. Salinger",
+    "koleksi_buku": [
+      { "judul": "The Catcher in the Rye", "kategori": "Fiksi", "harga": "50.000" },
+      { "judul": " History of Humankind", "kategori": "Non-fiksi", "harga": "50.000" },
+      { "judul": "The Night Circus", "kategori": "Fiksi", "harga":"50.000"}
+  ]
+  }
